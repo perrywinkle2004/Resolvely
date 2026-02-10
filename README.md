@@ -28,3 +28,6 @@ Use Python for backend, React for frontend.
 Include nice UI cards, progress spinners, and a success/failure indicator after each fix is tested.
 
 the output is suggested in normal english
+
+Project Link
+created using the Lovable app: https://resolvely.lovable.app/
